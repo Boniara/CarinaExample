@@ -3,7 +3,7 @@
     "id": "regex:[\\d]",
     "name": "type:String",
     "username": "regex:[a-zA-Z\\d]+",
-    "email": "Sincere@april.biz",
+    "email": "regex:[a-zA-Z\\d\\_\\.]+@[a-z]+\\.[a-z]{2,4}",
     "address": {
       "street": "regex:[a-zA-Z\\d]+",
       "suite": "Apt. 556",

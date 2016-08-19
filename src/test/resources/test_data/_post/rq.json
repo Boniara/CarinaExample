@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    <#if name??>"name": "${name}",<#else></#if>
-    <#if username??>"username": "${username}",<#else></#if>
+    <#if name??>"name": "${name}",</#if>
+    <#if username??>"username": "${username}",</#if>
     "email": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
